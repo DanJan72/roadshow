@@ -1,5 +1,6 @@
 package net.praqma.roadshow;
 
+/** added Daniel comment**/
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.Map;
